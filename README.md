@@ -7,5 +7,6 @@ While, it seems these packages don't work well as previously since there's some 
 This script is used pull multiple days weather data for selected cities.
 
 *With a free wunderground API key, it allows 500 calls per day and 10 calls per minute. If exceeded, a "raindrop" is count down from the account.
+
 *Register an API key on https://www.wunderground.com/weather/api
 
